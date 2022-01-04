@@ -1,4 +1,5 @@
 ---
+layout: lecture
 type: lecture
 date: 2021-01-03T8:00:00+5:30
 title: Lec-1 Introduction
