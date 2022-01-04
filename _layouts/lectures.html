@@ -7,6 +7,8 @@ layout: page
 <ul id="archive">
 {% for lecture in site.lectures %}
 <li class="archiveposturl" style="background: transparent">
+    <span><a href="{{ lecture.url | prepend: site.baseurl}}">{{ lecture.title }}</a></span>
+<!--
 <div class="lecture-container">
     {% if lecture.thumbnail %}
     <div class="thumbnail">
@@ -32,6 +34,7 @@ layout: page
         {% endif %}
     </div>
 </div>
+-->
 </li>
 {% endfor %}
 </ul>
