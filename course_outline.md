@@ -18,7 +18,7 @@ Applications : Novel image sensing, Mining internet images
 
 This course has no pre-requisities. However, familiarity with linear algebra and probability theory will be useful. Programming assignments will be implemented in Matlab, familiarity with C is helpful.
 
-Grading Policy:- \
+**Grading Policy** \
 Mid Term 1: 20 marks\
 Mid Term 2: 30 marks \
 End Term  : 50 marks
