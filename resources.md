@@ -31,8 +31,9 @@ by R. Hartley and A. Zisserman, Second Edition, Cambridge University Press, 2004
   <img src="_images/CV_Hartley.png" width="175" />
 </p>
 
-![Forsyth](/_images/CV_Forsyth.png){: width="175" height="225" } | ![Szeliski](/_images/CV_Szeliski.png){: width="175" height="225" } | ![Prince](/_images/CV_Simon.png){: width="175" height="225" } | ![Hartley](/_images/CV_Hartley.png){: width="175" height="225" }
-  
+| ![Forsyth](/_images/CV_Forsyth.png){: width="175" height="225" } | ![Szeliski](/_images/CV_Szeliski.png){: width="175" height="225" } | ![Prince](/_images/CV_Simon.png){: width="175" height="225" } | ![Hartley](/_images/CV_Hartley.png){: width="175" height="225" } |
+| :-: | :-: | :-: | :-: |
+
 ## Online Resources
 
 [Online Compendium](https://homepages.inf.ed.ac.uk/rbf/CVonline/)
