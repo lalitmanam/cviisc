@@ -24,7 +24,7 @@ by Richard Szeliski, book draft.
 by Simon Prince.
 *Interesting volume using a unified language of probability.*
 
-![Prince](/_images/CV_Prince.png){: width="175" }
+![Prince](/_images/CV_Simon.png){: width="175" }
 
 4. [Multiple View Geometry in Computer Vision](https://www.robots.ox.ac.uk/~vgg/hzbook/)
 by R. Hartley and A. Zisserman, Second Edition, Cambridge University Press, 2004.
