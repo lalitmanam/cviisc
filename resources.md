@@ -9,19 +9,19 @@ permalink: /resources/
 ## Books
 
 1. [Computer Vision : A Modern Approach](https://www.pearsoned.co.in/web/books/9789332550117_Computer-Vision_David-A-Forsyth.aspx)
-by David Forsyth and Jean Ponce, Pearson India, 2015.
+by David Forsyth and Jean Ponce, Pearson India, 2015. \
 *We will use some chapters from this book.*
 
 2. [Computer Vision: Algorithms and Applications](http://szeliski.org/Book/)
-by Richard Szeliski, book draft.
+by Richard Szeliski, book draft. \
 *Please download this book, material from it will be used on occasion.*
 
 3. [Computer Vision: Models, Learning, and Inference](http://www.computervisionmodels.com/)
-by Simon Prince.
+by Simon Prince. \
 *Interesting volume using a unified language of probability.*
 
 4. [Multiple View Geometry in Computer Vision](https://www.robots.ox.ac.uk/~vgg/hzbook/)
-by R. Hartley and A. Zisserman, Second Edition, Cambridge University Press, 2004.
+by R. Hartley and A. Zisserman, Second Edition, Cambridge University Press, 2004. \
 *We will use the sample chapters available online.*
 
  ![Forsyth](/_images/CV_Forsyth.png){: width="175" height="225" } | ![Szeliski](/_images/CV_Szeliski.png){: width="175" height="225" } | ![Prince](/_images/CV_Simon.png){: width="175" height="225" } | ![Hartley](/_images/CV_Hartley.png){: width="175" height="225" } 
