@@ -19,9 +19,11 @@
     <li class="no-p-margin">
         {% if n.type %}
             {% if n.type == 'lecture' %}
-                New Lecture is up: {{ n.title }}
-                {% include lecture_links.html lecture=n %}
-            {% elsif n.type == 'assignment' %}
+                New Lecture is up: [<a href="{{ n.url | prepend: site.baseurl }}">{{ n.title }}</a>]
+                <!--
+                {% include lecture_links.html lecture=n %}, {{ n.title }}
+                -->
+            {% elsif n.type == 'assignment' %}                
                 New Homework released: [<a href="{{ n.url | prepend: site.baseurl }}">{{ n.title }}</a>]
             {% else%}
                 {{ n.description }}
