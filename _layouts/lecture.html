@@ -19,17 +19,13 @@ title: page.title
     </div>
     {% endif %}
     <div class="content">
-        <span style="font-weight: bold;">{{ page.title }}</span><br>
-        <!--
-        <p style="font-weight: bold">
-        [<a href="{{ page.links.url | prepend: site.baseurl }}">slides</a>]
-        </p>
-        -->
-        {{ page.desc }}
-        <br/>
+        <span style="font-weight: bold;">{{ page.title }}</span><br>       
         <strong>
         {% include lecture_links.html lecture=page %}
         </strong>
+        <br/>
+        {{ page.desc }}
+        <br/>        
         {% if page.content != '' %}
         <br/>
         <div class="markdown-content" style="margin-top: 3px;">
