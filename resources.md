@@ -12,25 +12,19 @@ permalink: /resources/
 by David Forsyth and Jean Ponce, Pearson India, 2015.
 *We will use some chapters from this book.*
 
-![Forsyth](/_images/CV_Forsyth.png){: width="175" }
-
 2. [Computer Vision: Algorithms and Applications](http://szeliski.org/Book/)
 by Richard Szeliski, book draft.
 *Please download this book, material from it will be used on occasion.*
-
-![Szeliski](/_images/CV_Szeliski.png){: width="175" }
 
 3. [Computer Vision: Models, Learning, and Inference](http://www.computervisionmodels.com/)
 by Simon Prince.
 *Interesting volume using a unified language of probability.*
 
-![Prince](/_images/CV_Simon.png){: width="175" }
-
 4. [Multiple View Geometry in Computer Vision](https://www.robots.ox.ac.uk/~vgg/hzbook/)
 by R. Hartley and A. Zisserman, Second Edition, Cambridge University Press, 2004.
 *We will use the sample chapters available online.*
 
-![Hartley](/_images/CV_Hartley.png){: width="175" }
+![Forsyth](/_images/CV_Forsyth.png){: width="175" } | ![Szeliski](/_images/CV_Szeliski.png){: width="175" } | ![Prince](/_images/CV_Simon.png){: width="175" } | ![Hartley](/_images/CV_Hartley.png){: width="175" }
 
 ## Online Resources
 
