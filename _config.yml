@@ -12,7 +12,7 @@ course_ta_email: "lalitmanam@iisc.ac.in"
 course_ta_email_text: "lalitmanam AT iisc DOT ac DOT in"
 
 
-baseurl: "/cviisc2022" # the subpath of your site, e.g. /blog/
+baseurl: "/cviisc" # the subpath of your site, e.g. /blog/
 url: "http://lalitmanam.github.io/" # the base hostname & protocol for your site
 
 schoolname: "Indian Institute of Science"
