@@ -24,9 +24,8 @@ by Simon Prince. \
 by R. Hartley and A. Zisserman, Second Edition, Cambridge University Press, 2004. \
 *We will use the sample chapters available online.*
 
- ![Forsyth](/_images/CV_Forsyth.png){: width="175" height="225" } | ![Szeliski](/_images/CV_Szeliski.png){: width="175" height="225" } | ![Prince](/_images/CV_Simon.png){: width="175" height="225" } | ![Hartley](/_images/CV_Hartley.png){: width="175" height="225" } 
+ ![Forsyth](/_images/CV_Forsyth.png){: width="175" height="225" } | ![Szeliski](/_images/CV_Szeliski.png){: width="175" height="225" } | ![Prince](/_images/CV_Simon.png){: width="175" height="225" } | ![Hartley](/_images/CV_Hartley.png){: width="175" height="225" } \
 
-\\
 
 ## Online Resources
 
