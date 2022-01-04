@@ -21,7 +21,7 @@ title: page.title
     <div class="content">
         <span style="font-weight: bold;">{{ page.title }}</span><br>
         <p style="font-weight: bold">
-        [<a href="{{ page.url | prepend: site.baseurl }}">slides</a>]
+        [<a href="{{ page.links.url | prepend: site.baseurl }}">slides</a>]
         </p>
         {{ page.desc }}
         <br/>
