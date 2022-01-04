@@ -1,19 +1,28 @@
 # Site settings
-course_name: History of Magic
-course_description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ornare aliquam mattis. Donec hendrerit sollicitudin urna. Aliquam venenatis rutrum velit, at lobortis dui cursus a. Nam varius metus in turpis maximus, ut rhoncus tellus dictum. In aliquam tortor nec mi dapibus, sit amet vehicula dolor auctor."
-course_semester: "Fall 1998"
+course_name: E1-216 Computer Vision
+course_instructor: "Venu Madhav Govindu"
+course_instructor_url: "https://ee.iisc.ac.in/~venu/"
+course_instructor_phone: "2293 3171"
+course_instructor_email: "venug@iisc.ac.in"
+course_instructor_email_text: "venug AT iisc DOT ac DOT in"
+course_timings: "Mon, Wed: 2-4 PM"
+course_semester: "Jan-Apr 2022"
+course_ta: "Lalit Manam"
+course_ta_email: "lalitmanam@iisc.ac.in"
+course_ta_email_text: "lalitmanam AT iisc DOT ac DOT in"
 
-baseurl: "/jekyll-course-website-template" # the subpath of your site, e.g. /blog/
-url: "http://kazemnejad.github.io/" # the base hostname & protocol for your site
 
-schoolname: "Hogwarts"
-schoolurl: "https://hogwarts.edu"
-twitter_username: username 
+baseurl: "/cviisc2022" # the subpath of your site, e.g. /blog/
+url: "http://lalitmanam.github.io/" # the base hostname & protocol for your site
+
+schoolname: "Indian Institute of Science"
+schoolurl: "https://ee.iisc.ac.in/"
+# twitter_username: username 
 
 address: |
-    School of Witchcraft and Wizardry
-    Hogwarts
-    Scotland
+    Dept. of Electrical Engineering
+    Indian Institute of Science
+    Bengaluru, Karnataka, India
 
 # Set your Google Analytics tracking ID (set up yours at http://www.google.com/analytics/)
 # google_analytics: UA-XXXXXXXX-X
@@ -30,7 +39,7 @@ excerpt_separator: "<!--more-->"
 include: ['_images', '_css']
 exclude: ['develop']
 
-dateformat: "%m/%d/%Y"
+dateformat: "%d/%m/%Y"
 
 future: true
 collections:
