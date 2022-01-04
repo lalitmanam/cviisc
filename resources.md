@@ -28,7 +28,6 @@ by R. Hartley and A. Zisserman, Second Edition, Cambridge University Press, 2004
  
 
 \
-\
 
 ## Online Resources
 
